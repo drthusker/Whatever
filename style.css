@@ -1,0 +1,43 @@
+/*the body*/
+body {
+
+	background-color: #efeee7;
+	font: "Georgia",Times New Roman,Times,serif;
+	font color: #333333;
+	margin: 0;
+	padding: 0;
+
+}
+
+header {
+	background-color: #333333;
+}
+/*the first header*/
+h1 {
+	font color: #eee;
+	font-size: 28px;
+	margin-left: 40px;
+}
+
+h2 {
+	font-size: 24px;
+	margin: 20px;
+}
+
+
+#main-bio {
+	float: left;
+	width: 70%;
+	margin: 40px;
+}
+/*the contact info*/
+#contact-info {
+	float: left;
+	width: 30%;
+}
+/* the image*/
+#bio-image {
+	float: left;
+	width: 200px;
+	margin: 20px;	
+}
